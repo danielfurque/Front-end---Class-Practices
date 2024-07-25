@@ -210,4 +210,10 @@ maria
 
 /* nombre = 'juan' */ 
 
-console.log((true > true || 9) && Number(Boolean(1)) > 0 || 'pepe')
+/* console.log(true > true || 9) && Number(Boolean(1)) > 0 || 'pepe' */
+
+/* function sumar(a,b){
+    return a+b
+}
+const resultado = sumar()
+console.log (resultado === NaN) */
